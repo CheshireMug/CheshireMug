@@ -28,5 +28,6 @@ Python, HTML, CSS, SQL на базовом уровне, Flask на базово
 ## Network job accounts:
 hh.ru:
 https://rostov.hh.ru/applicant/resumes?hhtmFrom=main&hhtmFromLabel=header
+
 habr:
 https://career.habr.com/ignat_protasov
